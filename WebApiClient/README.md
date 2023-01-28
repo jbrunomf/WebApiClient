@@ -10,4 +10,4 @@ Tecnologias utilizadas:
 - .NET
 
 Exemplo:
-![img.png](https://github.com/jbrunomf/WebApiClient/blob/master/WebApiClient/img.png)
+![img.png](img_test.png)
