@@ -19,6 +19,7 @@ foreach (var repo in repositories)
     Console.WriteLine($"Homepage: {repo.Homepage}");
     Console.WriteLine($"GitHub: {repo.GitHubHomeUrl}");
     Console.WriteLine($"Description: {repo.Description}");
+    Console.WriteLine($"Last Push Date: {repo.LastPushUtc}");
     Console.WriteLine();
 }
 
